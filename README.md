@@ -1,0 +1,29 @@
+[GIT]
+    - O que é?
+        - é uma tecnologia de versionamento de código/backup.
+    - Pra quê ele serve?
+        - é uma tecnologia de versionamento de código/backup.
+        - Cadastro. 
+            - index.html.
+            - teste.html.
+            - O seu software ele é versão 1.0.0.
+        - Editar.
+            - 1.1.0
+        - Deletar.
+            - 1.2.0
+    - Como funciona?
+        - Respondido nas respostas acima/].
+
+    - Principais comandos:
+        - Clonar um repositório:
+            - git clone [URL do repositório].
+        - Responsável por escolher quais arquivos irão subir para o git naquele commit.
+            - git add .
+        - Subir commitar alterações para o Git:
+            - git commit -m "Finalizado funcionalidade de cadastrado de funcionários"
+        - Enviar alterações para o servidor:
+            - git push
+        - Verificar alterações novas no github/branch:
+            - git fetch --all
+        - Puxar alterações da branch remoto para a sua branch local:
+            - git pull / git rebase
